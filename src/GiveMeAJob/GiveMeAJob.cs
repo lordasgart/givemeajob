@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace GiveMeAJob
 {
-    public class Class1
+    public class GiveMeAJobService
     {
         public Job ReturnJob(IEnumerable<Job> jobs)
         {
